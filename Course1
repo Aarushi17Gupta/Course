@@ -10,5 +10,5 @@ Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
 
 Aarushi Gupta
-Exploratory Data Analysis
-Loading the data, cleaning the data, dealing with missing values and then plotting beautiful graphs to draw insights from the data.
+Algorithm Analysis
+Analysing an Algorithm to determine computational complexity theory, which provides theoretical estimation for the required resources of an algorithm to solve a specific computational problem.Analysing an algorithm to determine the amount of time and space resources required to execute it.
